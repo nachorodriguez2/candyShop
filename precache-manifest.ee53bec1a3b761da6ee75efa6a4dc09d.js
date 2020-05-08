@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1a9d5ebfbc10355bbe9f0fea46b8c8b",
+    "revision": "cf7cceac1afd6decfbef4b4fcc2c24e1",
     "url": "/candyShop/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/candyShop/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "eadde578598e7fcdd15f",
+    "revision": "9b41caa33d80e2259fea",
     "url": "/candyShop/static/css/main.c92c7c93.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/candyShop/static/js/2.45f70362.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eadde578598e7fcdd15f",
-    "url": "/candyShop/static/js/main.7c9dbf22.chunk.js"
+    "revision": "9b41caa33d80e2259fea",
+    "url": "/candyShop/static/js/main.42dceba9.chunk.js"
   },
   {
     "revision": "8e7b7e769893e015cadd",
