@@ -11,7 +11,7 @@ const AppShop = () => {
       <div className="contenedor">
         <Nav />
         <Switch>
-          <Route exact path="/" component={Main} />
+          <Route exact path="/candyShop" component={Main} />
           <Route exact path="/shop" component={Shop} />
           <Route exact path="/checkOut" component={CheckOut} />
         </Switch>
