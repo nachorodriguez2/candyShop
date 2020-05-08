@@ -1,6 +1,6 @@
 {
   "name": "github-finder",
-  "homepage": "http://nachorodriguez2.github.io/candyShop"
+  "homepage": "http://nachorodriguez2.github.io/candyShop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

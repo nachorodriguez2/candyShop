@@ -6,7 +6,7 @@ const Nav = () => {
     <nav>
       <ul className="lista">
         <li>
-          <Link style={{ textDecoration: "none" }} to="/">
+          <Link style={{ textDecoration: "none" }} to="/candyShop">
             HOME{" "}
           </Link>
         </li>
