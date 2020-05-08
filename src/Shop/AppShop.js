@@ -10,6 +10,7 @@ const AppShop = () => {
     <Router>
       <div className="contenedor">
         <Nav />
+        <Main />
         <Switch>
           <Route exact path="/candyShop" component={Main} />
           <Route exact path="/shop" component={Shop} />
